@@ -1767,6 +1767,9 @@ body{
 #abhi-views-row{
     color: white;
 }
+#half-abhi #views-increase1{
+    margin-left: -60px;
+}
 .abhi-first-row{
     background: rgba(0, 0, 0, 0.7)url('img/Rectangle\ 65.jpg') !important;
 }
